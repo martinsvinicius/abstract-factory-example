@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/venda/VendaFactory.java</file>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/venda/Venda.java</file>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/modelo/Produto.java</file>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/nfe/NFE.java</file>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/boleto/Boleto.java</file>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/Principal.java</file>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/nfe/NFESaoPaulo.java</file>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/loja/LojaRazer.java</file>
+            <file>file:/C:/Users/Monally/Documents/NetBeansProjects/Abstract%20Factory/src/dominio/boleto/BoletoBancoBrasil.java</file>
+        </group>
+    </open-files>
+</project-private>
